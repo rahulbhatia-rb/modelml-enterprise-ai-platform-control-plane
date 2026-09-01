@@ -1,0 +1,10 @@
+{
+  "kubernetes": {},
+  "terraform": {},
+  "cicd": {},
+  "network": {},
+  "data": {},
+  "observability": {},
+  "compliance": {},
+  "ai_security": {}
+}
